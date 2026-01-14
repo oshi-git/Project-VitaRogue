@@ -1,4 +1,4 @@
-# 🏋️ VitaRogue - Health & Fitness Platform
+![Coach-Client Interface 5](https://github.com/user-attachments/assets/bda7275f-05df-4915-8618-b0433f50e4cb)# 🏋️ VitaRogue - Health & Fitness Platform
 
 > A comprehensive health and wellness application connecting fitness coaches with clients for personalized health management.
 
@@ -72,8 +72,19 @@ As the **Frontend Developer** for the Coach Interface, I was responsible for:
 
 ## 📸 Screenshots
 
-![Coach-Client Interface](https://github.com/user-attachments/assets/a0d87902-47b9-4edb-b7e7-cc915df69b1f)
+![Coach-Client Interface 1](https://github.com/user-attachments/assets/e953fc4e-4003-4481-a55b-0e16f32ecc4f)
 
+![Coach-Client Inter face 2](https://github.com/user-attachments/assets/44d69bfa-0d70-4d62-9dc7-b0d4342992cb)
+
+![Coach-Client Interface 3](https://github.com/user-attachments/assets/703ac77d-564e-4657-a474-219f643821bf)
+
+![Coach-Client Interface 4](https://github.com/user-attachments/assets/02188dd2-41ba-4a97-b1a4-940378e5bf76)
+
+![Coach-Client Interface 5](https://github.com/user-attachments/assets/8b46e4a2-0588-4fa0-b43b-8eaa64ef83f8)
+
+![Coach-Client Interface](https://github.com/user-attachments/assets/508ee610-6f76-477d-aa76-12d4c9c304f7)
+
+![Coach-Client Interface 6](https://github.com/user-attachments/assets/2d33b33d-b75d-492e-b832-d5863548a577)
 
 ---
 
